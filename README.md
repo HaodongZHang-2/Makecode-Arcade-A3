@@ -1,6 +1,6 @@
 # Platform Jumping Shooting Game
 > My a3 project is based on controlling the character's left/right movement and jumping on the platform by pressing ‘B’ to attack randomly generated monsters in the field in order to reach the target destination..
-> Live demo [_here_](https://arcade.makecode.com/S43266-33251-70418-56549). 
+> Live demo [_here_](https://arcade.makecode.com/S96477-83933-73640-69877). 
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -17,24 +17,22 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- This is a platforrmer and the shooting game .
+- take the player reach the goal
+- I know the bussine well so i chiose the platformer game with a interesting attribute just like shooting.
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Event-driven system (register event and call back function)
+- Generate random numbers 
+- define functions to process according event 
 
 
 ## Features
 List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Generate random enermies 
+- attack enermies controlled by keyborad and button 
+- enermies move constantly and randomly
 
 
 ## Screenshots
