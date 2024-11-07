@@ -64,18 +64,11 @@ To do:
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- This project was inspired by makecode arcade platform and the game called super mario 
+- This project was refer to [this tutorial](https://electronstudio.github.io/pygame-zero-book/chapters/shooter.html).
+- Many thanks to tutor
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [Haodong.Zhang@student.uts.edu.au) - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
