@@ -540,7 +540,7 @@ beibie = sprites.create(img("""
     SpriteKind.player)
 scene.camera_follow_sprite(beibie)
 tiles.set_current_tilemap(tilemap("""
-    级别2
+    map
 """))
 Create_monsters()
 tiles.place_on_tile(beibie, tiles.get_tile_location(0, 5))
