@@ -35,7 +35,7 @@ List the ready features here:
 - Enemies move continuously and randomly
 
 ## Screenshots
-![Example screenshot](https://github.com/HaodongZHang-2/Makecode-Arcade-A3/blob/main/arcade-BEIBEI%E2%80%98RISK%20(1).png)
+![Example screenshot](https://github.com/HaodongZHang-2/Makecode-Arcade-A3/blob/main/my_project/arcade-BEIBEI%E2%80%98RISK%20(1).png)
 
 
 
