@@ -1,5 +1,5 @@
 # Platform Jumping Shooting Game
-> My a3 project is based on controlling the character's left/right movement and jumping on the platform by pressing ‘B’ to attack randomly generated monsters in the field in order to reach the target destination..
+> My A3 project is based on controlling a character's left/right movement and jumping on platforms. By pressing 'B,' the character can attack randomly generated monsters in the field to reach the target destination.
 > Live demo [_here_](https://arcade.makecode.com/S96477-83933-73640-69877). 
 
 ## Table of Contents
@@ -17,61 +17,55 @@
 
 
 ## General Information
-- This is a platforrmer and the shooting game .
-- take the player reach the goal
-- I know the bussine well so i chiose the platformer game with a interesting attribute just like shooting.
+- This is a platformer and shooting game.
+-The player's goal is to reach the target.
+-With a good understanding of this genre, I chose to create a platformer game with an interesting attribute: shooting.
 
 
 ## Technologies Used
-- Event-driven system (register event and call back function)
-- Generate random numbers 
-- define functions to process according event 
+- Event-driven system (register events and callback functions)
+- Random number generation
+- Defined functions to process corresponding events
 
 
 ## Features
 List the ready features here:
-- Generate random enermies 
-- attack enermies controlled by keyborad and button 
-- enermies move constantly and randomly
-
+- Randomly generated enemies
+- Attack enemies using keyboard and button controls
+- Enemies move continuously and randomly
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
+Requires only a web browser and an internet connection.
 
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
+Copy the address of the live demo and paste it into the address bar.
 
-`write-your-code-here`
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+The project is totally completed and is no longer being worked on.
 
 
 ## Room for Improvement
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- Add multiple game levels
+- Improve enemy movement, such as directional turning
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
+- Add various types of enemies
 
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
+- This project was inspired by
 - This project was based on [this tutorial](https://www.example.com).
 - Many thanks to...
 
